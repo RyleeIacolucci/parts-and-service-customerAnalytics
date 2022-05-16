@@ -1,0 +1,14 @@
+# Ignore CSV and Excel files
+*.csv
+*.xlsx
+
+# Ignore py cache objects
+*.pyc 
+__pycache__
+
+# Ignore the python virtual environment
+.venv
+/.venv
+
+
+
