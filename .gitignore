@@ -10,5 +10,8 @@ __pycache__
 .venv
 /.venv
 
+# Ignore data folder
+/data
+
 
 
